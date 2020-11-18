@@ -1,0 +1,51 @@
+.Logoimg
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+}
+
+.Textcenter
+{
+    text-align: center;
+}
+
+.inputBox
+{
+    width: 200px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+div.container 
+{
+    margin-left: 600px;
+    width: 240px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.Footer
+{
+    background-color: black;
+    width: auto;
+    height: 80px;
+    margin-top: 40px;
+}
+
+.FooterImg
+{
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.FooterSpacing
+{
+    margin-left: 620px;
+}
